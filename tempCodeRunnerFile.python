@@ -1,6 +1,0 @@
-import sys
-import datetime
-
-print("Creative Design Term Project")
-print("당신이 담배에 쓴 돈을 기록해드립니다.")
-
